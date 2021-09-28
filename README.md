@@ -5,3 +5,4 @@ WindSim is available both as Matlab (optimization and control toolbox required) 
 [Matlab manual.pdf](https://github.com/WimBierbooms/Windturbine-Simulation-package/files/7244852/Matlab.manual.pdf)
 [Descriptions.pdf](https://github.com/WimBierbooms/Windturbine-Simulation-package/files/7244854/Descriptions.pdf)
 [Python manual.pdf](https://github.com/WimBierbooms/Windturbine-Simulation-package/files/7244859/Python.manual.pdf)
+https://www.tudelft.nl/lr/organisatie/afdelingen/aerodynamics-wind-energy-flight-performance-and-propulsion/wind-energy/research/wind-conditions
